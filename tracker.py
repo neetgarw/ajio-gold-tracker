@@ -1,5 +1,7 @@
 import requests
 
+print("DEBUG VERSION 2")
+
 url = "https://www.ajio.com/s/ham-gold-coins-and-bars-4775-71731?query=%3Aprce-asc"
 
 headers = {
